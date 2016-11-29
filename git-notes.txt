@@ -1,0 +1,11 @@
+notes on git!!
+
+
+git init -> creates repository
+
+git add <file>
+
+git status
+
+git commit -> commit uploaded file
+
