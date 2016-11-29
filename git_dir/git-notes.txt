@@ -1,0 +1,39 @@
+CLONE?
+
+Notes on git!!
+
+
+# git init -> creates repository
+
+# git add <file>
+
+# git status
+
+# git commit -> commit uploaded file
+
+
+# git commit -m "insert message"
+
+
+# ssh to github!!
+
+# To download repository: git clone eg.->git@github.com:jvmead/starterkit-2016.git
+
+# create new branch 
+
+git checkout -b <name>
+
+# join files
+
+git merge
+
+git rebase -> orders based on history
+
+get diff HEAD
+get diff HEAD~1 -> shows history
+
+git mv <file> # moves file and no need to 'add' as git mv tells git its been moved
+
+.gitignore 
+
+*.pyc # so it doesnt commit .pyc files
