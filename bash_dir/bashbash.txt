@@ -1,1 +1,10 @@
-WHEEEEEEEEYYYYYY
+play around with :-
+
+# merge 
+
+# reset --hard
+
+# checkout HEAD
+
+# revert
+
