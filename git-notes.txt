@@ -1,19 +1,19 @@
-notes on git!!
+Notes on git!!
 
 
-git init -> creates repository
+# git init -> creates repository
 
-git add <file>
+# git add <file>
 
-git status
+# git status
 
-git commit -> commit uploaded file
-
-
-git commit -m "insert message"
+# git commit -> commit uploaded file
 
 
-ssh to github!!
+# git commit -m "insert message"
 
-To download repository: git clone eg.->git@github.com:jvmead/starterkit-2016.git
+
+# ssh to github!!
+
+# To download repository: git clone eg.->git@github.com:jvmead/starterkit-2016.git
 
