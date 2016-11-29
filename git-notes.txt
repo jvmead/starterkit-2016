@@ -34,3 +34,6 @@ get diff HEAD~1 -> shows history
 
 git mv <file> # moves file and no need to 'add' as git mv tells git its been moved
 
+.gitignore 
+
+*.pyc # so it doesnt commit .pyc files
