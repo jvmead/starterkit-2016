@@ -11,3 +11,6 @@ git commit -> commit uploaded file
 
 
 git commit -m "insert message"
+
+
+ssh to github!!
