@@ -19,3 +19,16 @@ Notes on git!!
 
 # To download repository: git clone eg.->git@github.com:jvmead/starterkit-2016.git
 
+# create new branch 
+
+git checkout -b <name>
+
+# join files
+
+git merge
+
+git rebase -> orders based on history
+
+get diff HEAD
+get diff HEAD~1 -> shows history
+
