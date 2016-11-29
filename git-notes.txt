@@ -14,3 +14,6 @@ git commit -m "insert message"
 
 
 ssh to github!!
+
+To download repository: git clone eg.->git@github.com:jvmead/starterkit-2016.git
+
